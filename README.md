@@ -9,7 +9,7 @@
 
 This assignment uses the “Individual household electric power consumption Data Set” from the UC Irvine Machine Learning Repository. It consists of the measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. Different electrical quantities and some sub-metering values are available.
 
-The following descriptions of the 9 variables in the dataset are taken from the UCI web site:
+The following descriptions of the 9 variables in the dataset are taken from the UCI web site*:
 =============================================================================================
 
 1. **_Date_**: Date in format dd/mm/yyyy
@@ -37,4 +37,4 @@ Each script does the following:
 5. Creates new column in the dataframe named 'Datetime'.
 6. Extracts date and time information using strptime function, which is then used to build each plot.
 
-
+* https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
