@@ -37,4 +37,4 @@ Each script does the following:
 5. Creates new column in the dataframe named 'Datetime'.
 6. Extracts date and time information using strptime function, which is then used to build each plot.
 
-* https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
+/* https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
